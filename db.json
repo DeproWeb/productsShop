@@ -41,13 +41,13 @@
             "img":  "https://cdn.pixabay.com/photo/2020/07/22/11/56/cat-5428833_1280.jpg"
         },
         {
-            "name": "Comida para perros",
-            "price": 25,
-            "img":  "https://cdn.pixabay.com/photo/2019/02/15/17/42/pet-food-3998919_1280.jpg"
+            "name": "Comedero para perros",
+            "price": 5,
+            "img":  "https://cdn.pixabay.com/photo/2020/05/13/21/03/dog-food-5168940_1280.jpg"
         },
         {
-            "name": "Comida para perros",
-            "price": 25,
-            "img":  "https://cdn.pixabay.com/photo/2019/02/15/17/42/pet-food-3998919_1280.jpg"
+            "name": "Comedero para gatos",
+            "price": 6,
+            "img":  "https://pixabay.com/es/photos/gato-alimentos-2170494/"
         }
 ]}
