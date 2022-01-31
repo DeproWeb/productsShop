@@ -1,0 +1,53 @@
+{
+    "products" : [
+        {
+            "name": "Comida para perros",
+            "price": 25,
+            "img":  "https://cdn.pixabay.com/photo/2019/02/15/17/42/pet-food-3998919_1280.jpg"
+        },
+        {
+            "name": "Comida para gatos",
+            "price": 18,
+            "img":  "https://cdn.pixabay.com/photo/2017/03/24/08/24/cat-2170494_1280.jpg"
+        },
+        {
+            "name": "Juguete para perros",
+            "price": 3,
+            "img":  "https://cdn.pixabay.com/photo/2016/08/01/13/13/dog-1561011_1280.jpg"
+        },
+        {
+            "name": "Juguete para gatos",
+            "price": 2,
+            "img":  "https://cdn.pixabay.com/photo/2022/01/09/15/58/cat-6926318_1280.jpg"
+        },
+        {
+            "name": "Cama para perros",
+            "price": 15,
+            "img":  "https://cdn.pixabay.com/photo/2020/05/25/02/48/dog-sleeping-5216758_1280.jpg"
+        },
+        {
+            "name": "Cama para gatos",
+            "price": 11,
+            "img":  "https://cdn.pixabay.com/photo/2021/10/30/15/06/cat-6754626_1280.jpg"
+        },
+        {
+            "name": "Correa para perros",
+            "price": 5,
+            "img":  "https://cdn.pixabay.com/photo/2021/11/26/02/39/dog-6824999_1280.jpg"
+        },
+        {
+            "name": "Correa para gatos",
+            "price": 8,
+            "img":  "https://cdn.pixabay.com/photo/2020/07/22/11/56/cat-5428833_1280.jpg"
+        },
+        {
+            "name": "Comida para perros",
+            "price": 25,
+            "img":  "https://cdn.pixabay.com/photo/2019/02/15/17/42/pet-food-3998919_1280.jpg"
+        },
+        {
+            "name": "Comida para perros",
+            "price": 25,
+            "img":  "https://cdn.pixabay.com/photo/2019/02/15/17/42/pet-food-3998919_1280.jpg"
+        }
+]}
