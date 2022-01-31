@@ -3,7 +3,7 @@
         {
             "name": "Comida para perros",
             "price": 25,
-            "img":  "https://cdn.pixabay.com/photo/2019/02/15/17/42/pet-food-3998919_1280.jpg"
+            "img":  "https://cdn.pixabay.com/photo/2020/08/20/23/29/dog-5504866_1280.jpg"
         },
         {
             "name": "Comida para gatos",
@@ -48,6 +48,6 @@
         {
             "name": "Comedero para gatos",
             "price": 6,
-            "img":  "https://pixabay.com/es/photos/gato-alimentos-2170494/"
+            "img":  "https://cdn.pixabay.com/photo/2014/09/01/18/20/cat-433017_1280.jpg"
         }
 ]}
